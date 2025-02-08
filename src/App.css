@@ -21,7 +21,15 @@
 }
 
 .App-link {
-  color: #32682b;
+  color: #000000;
+  background-color:#ccc;
+  padding: 12px;
+  border-radius: 8px;
+  transition: box-shadow 0.3s ease;
+}
+
+.App-link:hover {
+  box-shadow: 8px 0px 20px rgba(0, 0, 0, 0.63);
 }
 
 .heart {

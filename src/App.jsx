@@ -9,16 +9,16 @@ function App() {
           I am a sigma male <span className="heart">♥️</span>
         </p>
         <p className="small">
-          sigma sigma sigma boi sigma boi! 🐱‍👤.
+          sigma sigma sigma boi sigma boi.
         </p>
         <p>
           <a
             className="App-link"
-            href="https://reactjs.org"
+            href="https://www.youtube.com/watch?v=Q_oSuTyxfOk"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Click here para mapalaki ang iyong 🍆
           </a>
         </p>
       </header>
