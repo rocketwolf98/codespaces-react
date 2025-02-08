@@ -4,12 +4,12 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="https://www.siasat.com/wp-content/uploads/2022/08/aNDREW-tATE.png" className="App-logo" alt="logo" />
+        <img src="https://ih1.redbubble.net/image.515623972.3817/flat,1000x1000,075,f.jpg" className="App-logo" alt="logo" />
         <p>
-          I am an alpha male <span className="heart">♥️</span>
+          I am an beta male <span className="heart">♥️</span>
         </p>
         <p className="small">
-          Would you like to be my bbgirl? 🥺.
+          Sabi mo hanggang dulo tayo potangina ko naman.
         </p>
         <p>
           <a
