@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  font-family: cursive;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .App-logo {
@@ -10,7 +10,7 @@
 }
 
 .App-header {
-  background-color: #492552;
+  background-color: #313131;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -30,5 +30,5 @@
 
 .small {
   font-size: 0.75rem;
-  font-family: cursive;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }

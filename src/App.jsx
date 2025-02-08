@@ -4,12 +4,12 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="https://ih1.redbubble.net/image.515623972.3817/flat,1000x1000,075,f.jpg" className="App-logo" alt="logo" />
+        <img src="https://media.tenor.com/NrRtFfNC-wIAAAAC/sigma.gif" className="App-logo" alt="logo" />
         <p>
-          I am an beta male <span className="heart">♥️</span>
+          I am a sigma male <span className="heart">♥️</span>
         </p>
         <p className="small">
-          Sabi mo hanggang dulo tayo potangina ko naman.
+          sigma sigma sigma boi sigma boi! 🐱‍👤.
         </p>
         <p>
           <a
