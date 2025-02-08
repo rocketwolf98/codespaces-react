@@ -1,10 +1,12 @@
 .App {
   text-align: center;
+  font-family: cursive;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+  border-radius: 28px;
 }
 
 .App-header {
@@ -28,5 +30,5 @@
 
 .small {
   font-size: 0.75rem;
-  font-style: "comic-sans";
+  font-family: cursive;
 }
